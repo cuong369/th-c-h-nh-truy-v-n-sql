@@ -1,4 +1,4 @@
--- bài tập hay:
+-- bài tập hay: Đã làm được rồi, không khó !!!
 /*
 A more complex MySQL derived table example
 Suppose you have to classify the customers in the year of 2003 into 
